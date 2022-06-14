@@ -1,0 +1,238 @@
+{
+  "lastPage": null,
+  "pageNumber": 1,
+  "totalPages": 1,
+  "totalResults": 5,
+  "pageContent": [
+    {
+      "version": 4,
+      "itemId": {
+        "itemCode": "1278932"
+      },
+      "packageIdentifiers": [
+        {
+          "type": "Type_1",
+          "value": "value_1"
+        }
+      ],
+      "shortDescription": {
+        "locale": "en-US",
+        "value": "Pizza Margherita"
+      },
+      "longDescription": {
+        "locale": "en-US",
+        "value": "A pizza covered in olive oil, oregano and finished with garlic and basil"
+      },
+      "status": "ACTIVE",
+      "merchandiseCategory": {
+        "nodeId": "1-846-188-450"
+      },
+      "departmentId": "783497",
+      "familyCode": "732897",
+      "manufacturerCode": "46743234",
+      "nonMerchandise": null,
+      "externalIdentifiers": [
+        {
+          "type": "NACS_CODE",
+          "value": "3031"
+        }
+      ],
+      "posNumber": "113",
+      "referenceId": "832022",
+      "price": 11.9,
+      "currency": "US Dollar",
+      "tareWeightUom": "POUND",
+      "tareWeight": 1.5,
+      "precision": 2,
+      "priceId": {
+        "itemCode": "1278932",
+        "enterpriseUnitId": "String",
+        "priceCode": "String"
+      }
+    },
+    {
+      "version": 4,
+      "itemId": {
+        "itemCode": "1278933"
+      },
+      "packageIdentifiers": [
+        {
+          "type": "Type_1",
+          "value": "value_1"
+        }
+      ],
+      "shortDescription": {
+        "locale": "en-US",
+        "value": "Pizza Proscuitto"
+      },
+      "longDescription": {
+        "locale": "en-US",
+        "value": "A pizza topped with cheese and ham"
+      },
+      "status": "ACTIVE",
+      "merchandiseCategory": {
+        "nodeId": "1-846-188-450"
+      },
+      "departmentId": "783497",
+      "familyCode": "732897",
+      "manufacturerCode": "46743234",
+      "nonMerchandise": null,
+      "externalIdentifiers": [
+        {
+          "type": "NACS_CODE",
+          "value": "3031"
+        }
+      ],
+      "posNumber": "113",
+      "referenceId": "832022",
+      "price": 10.9,
+      "currency": "US Dollar",
+      "tareWeightUom": "POUND",
+      "tareWeight": 1.5,
+      "precision": 2,
+      "priceId": {
+        "itemCode": "1278932",
+        "enterpriseUnitId": "String",
+        "priceCode": "String"
+      }
+    },
+    {
+      "version": 4,
+      "itemId": {
+        "itemCode": "1278934"
+      },
+      "packageIdentifiers": [
+        {
+          "type": "Type_1",
+          "value": "value_1"
+        }
+      ],
+      "shortDescription": {
+        "locale": "en-US",
+        "value": "Chicago pizza"
+      },
+      "longDescription": {
+        "locale": "en-US",
+        "value": "Topped with beef and sausage"
+      },
+      "status": "ACTIVE",
+      "merchandiseCategory": {
+        "nodeId": "1-846-188-450"
+      },
+      "departmentId": "783497",
+      "familyCode": "732897",
+      "manufacturerCode": "46743234",
+      "nonMerchandise": null,
+      "externalIdentifiers": [
+        {
+          "type": "NACS_CODE",
+          "value": "3031"
+        }
+      ],
+      "posNumber": "113",
+      "referenceId": "832022",
+      "price": 12.5,
+      "currency": "US Dollar",
+      "tareWeightUom": "POUND",
+      "tareWeight": 1.5,
+      "precision": 2,
+      "priceId": {
+        "itemCode": "1278932",
+        "enterpriseUnitId": "String",
+        "priceCode": "String"
+      }
+    },
+    {
+      "version": 4,
+      "itemId": {
+        "itemCode": "1278935"
+      },
+      "packageIdentifiers": [
+        {
+          "type": "Type_1",
+          "value": "value_1"
+        }
+      ],
+      "shortDescription": {
+        "locale": "en-US",
+        "value": "New York Style Pizza"
+      },
+      "longDescription": {
+        "locale": "en-US",
+        "value": "A foldable pizza with a crispy outer crust and baked in a wood burning oven"
+      },
+      "status": "ACTIVE",
+      "merchandiseCategory": {
+        "nodeId": "1-846-188-450"
+      },
+      "departmentId": "783497",
+      "familyCode": "732897",
+      "manufacturerCode": "46743234",
+      "nonMerchandise": null,
+      "externalIdentifiers": [
+        {
+          "type": "NACS_CODE",
+          "value": "3031"
+        }
+      ],
+      "posNumber": "113",
+      "referenceId": "832022",
+      "price": 8.25,
+      "currency": "US Dollar",
+      "tareWeightUom": "POUND",
+      "tareWeight": 1.5,
+      "precision": 2,
+      "priceId": {
+        "itemCode": "1278932",
+        "enterpriseUnitId": "String",
+        "priceCode": "String"
+      }
+    },
+    {
+      "version": 4,
+      "itemId": {
+        "itemCode": "1278936"
+      },
+      "packageIdentifiers": [
+        {
+          "type": "Type_1",
+          "value": "value_1"
+        }
+      ],
+      "shortDescription": {
+        "locale": "en-US",
+        "value": "Sicilian Pizza"
+      },
+      "longDescription": {
+        "locale": "en-US",
+        "value": "A thick cut of pizza with pillowy dough, a crunchy crust, and robust tomato sauce."
+      },
+      "status": "ACTIVE",
+      "merchandiseCategory": {
+        "nodeId": "1-846-188-450"
+      },
+      "departmentId": "783497",
+      "familyCode": "732897",
+      "manufacturerCode": "46743234",
+      "nonMerchandise": null,
+      "externalIdentifiers": [
+        {
+          "type": "NACS_CODE",
+          "value": "3031"
+        }
+      ],
+      "posNumber": "113",
+      "referenceId": "832022",
+      "price": 12.5,
+      "currency": "US Dollar",
+      "tareWeightUom": "POUND",
+      "tareWeight": 1.5,
+      "precision": 2,
+      "priceId": {
+        "itemCode": "1278932",
+        "enterpriseUnitId": "String",
+        "priceCode": "String"
+      }
+    }
+  ]
+}
