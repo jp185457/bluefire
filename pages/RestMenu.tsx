@@ -1,6 +1,7 @@
 // import type { NextPage } from 'next';
 import { InferGetStaticPropsType } from 'next';
-import { item } from '../lib/model/Item';
+// import { itemObj } from '../lib/model/Item';
+import MenuItem from '../components/MenuItem';
 
 export const getStaticProps = async () => {
   const res = await fetch(
@@ -13,19 +14,21 @@ export const getStaticProps = async () => {
   };
 };
 
-function RestMenu({ items }: InferGetStaticPropsType<typeof getStaticProps>) {
+// eslint-disable-next-line react/function-component-definition
+const RestMenu = ({
+  items,
+}: InferGetStaticPropsType<typeof getStaticProps>) => {
+  console.log(items);
   return (
     <div>
       <h1>Rest Menu</h1>
-      {items.map((item1: item) => (
-        <div key={item1.id}>
-          <li>
-            <h3>{item1.price}</h3>
-          </li>
+      {items.map((item) => (
+        <div key={item.itemId}>
+          <MenuItem {...item} />
         </div>
       ))}
     </div>
   );
-}
+};
 
 export default RestMenu;

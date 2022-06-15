@@ -1,0 +1,27 @@
+.menu {
+    display: flex;
+}
+.item-text{
+    flex-grow: 1
+}
+.name {
+    margin-right: 1.5em;
+}
+.desc {
+    line-height: 1.6;
+}
+.price
+{
+    
+}
+.heading{
+display: flex;
+  justify-content: space-between;
+  margin: 0;
+}
+.group{
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5em;
+  padding: 1.5em 0;
+}

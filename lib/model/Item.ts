@@ -1,6 +1,6 @@
-export interface item {
-  id: number;
-  name: string;
-  description: string;
+export interface itemObj {
+  itemId: String;
+  shortDescription: string;
+  longDescription: string;
   price: number;
 }

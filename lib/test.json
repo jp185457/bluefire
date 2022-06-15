@@ -1,79 +1,34 @@
 {
   "pageContent": [
     {
-      "itemId": {
-        "itemCode": "1278932"
-      },
-      "shortDescription": {
-        "locale": "en-US",
-        "value": "Pizza Margherita"
-      },
-      "longDescription": {
-        "locale": "en-US",
-        "value": "A pizza covered in olive oil, oregano and finished with garlic and basil"
-      },
-      "price": 11.9,
-      "currency": "US Dollar"
+      "itemId": "1278932",
+      "shortDescription": "Pizza Margherita",
+      "longDescription": "A pizza covered in olive oil, oregano and finished with garlic and basil",
+      "price": 11.9
     },
     {
-      "itemId": {
-        "itemCode": "1278933"
-      },
-      "shortDescription": {
-        "locale": "en-US",
-        "value": "Pizza Proscuitto"
-      },
-      "longDescription": {
-        "locale": "en-US",
-        "value": "A pizza topped with cheese and ham"
-      },
-      "price": 10.9,
-      "currency": "US Dollar"
+      "itemId": "1278933",
+      "shortDescription": "Pizza Proscuitto",
+      "longDescription": "A pizza topped with cheese and ham",
+      "price": 12.5
     },
     {
-      "itemId": {
-        "itemCode": "1278934"
-      },
-      "shortDescription": {
-        "locale": "en-US",
-        "value": "Chicago pizza"
-      },
-      "longDescription": {
-        "locale": "en-US",
-        "value": "Topped with beef and sausage"
-      },
-      "price": 12.5,
-      "currency": "US Dollar"
+      "itemId": "1278934",
+      "shortDescription": "Chicago pizza",
+      "longDescription": "Topped with beef and sausage",
+      "price": 10.5
     },
     {
-      "itemId": {
-        "itemCode": "1278935"
-      },
-      "shortDescription": {
-        "locale": "en-US",
-        "value": "New York Style Pizza"
-      },
-      "longDescription": {
-        "locale": "en-US",
-        "value": "A foldable pizza with a crispy outer crust and baked in a wood burning oven"
-      },
-      "price": 8.25,
-      "currency": "US Dollar"
+      "itemId": "1278935",
+      "shortDescription": "New York Style Pizza",
+      "longDescription": "A foldable pizza with a crispy outer crust and baked in a wood burning oven",
+      "price": 13
     },
     {
-      "itemId": {
-        "itemCode": "1278936"
-      },
-      "shortDescription": {
-        "locale": "en-US",
-        "value": "Sicilian Pizza"
-      },
-      "longDescription": {
-        "locale": "en-US",
-        "value": "A thick cut of pizza with pillowy dough, a crunchy crust, and robust tomato sauce."
-      },
-      "price": 12.5,
-      "currency": "US Dollar"
+      "itemId": "1278936",
+      "shortDescription": "Sicilian Pizza",
+      "longDescription": "A thick cut of pizza with pillowy dough, a crunchy crust, and robust tomato sauce.",
+      "price": 10
     }
   ]
 }
