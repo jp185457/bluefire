@@ -1,0 +1,20 @@
+.heading{
+  margin: 0;
+  padding-bottom: 1em;
+  text-align: center;
+  border-bottom: 2px solid #ccc;
+}
+.container{
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1.5em;
+}
+.menu{
+    font-size: 16px;
+}
+.group{
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5em;
+  padding: 1.5em 0;
+}
