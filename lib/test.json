@@ -3,7 +3,37 @@
     {
       "itemId": "1278932",
       "shortDescription": "Pizza Margherita",
-      "longDescription": "A pizza covered in olive oil, oregano and finished with garlic and basil",
+      "longDescription": "Pizza Margherita is a typical Neapolitan pizza, made with San Marzano tomatoes, mozzarella cheese, fresh basil, salt, and extra-virgin olive oil.",
+      "price": 11.9
+    },
+    {
+      "itemId": "1278933",
+      "shortDescription": "Pizza Proscuitto",
+      "longDescription": "A pizza topped with cheese and ham",
+      "price": 12.5
+    },
+    {
+      "itemId": "1278934",
+      "shortDescription": "Chicago pizza",
+      "longDescription": "Topped with beef and sausage",
+      "price": 10.5
+    },
+    {
+      "itemId": "1278935",
+      "shortDescription": "New York Style Pizza",
+      "longDescription": "A foldable pizza with a crispy outer crust and baked in a wood burning oven",
+      "price": 13
+    },
+    {
+      "itemId": "1278936",
+      "shortDescription": "Sicilian Pizza",
+      "longDescription": "A thick cut of pizza with pillowy dough, a crunchy crust, and robust tomato sauce.",
+      "price": 10
+    },
+    {
+      "itemId": "1278932",
+      "shortDescription": "Pizza Margherita",
+      "longDescription": "Pizza Margherita is a typical Neapolitan pizza, made with San Marzano tomatoes, mozzarella cheese, fresh basil, salt, and extra-virgin olive oil.",
       "price": 11.9
     },
     {

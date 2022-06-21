@@ -18,3 +18,9 @@
   gap: 1.5em;
   padding: 1.5em 0;
 }
+
+@media screen and (min-width: 992px) {
+.group{
+  grid-template-columns: repeat(2, 1fr);
+}
+ }
